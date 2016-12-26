@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.1_a8b92f2c8bf797e05a00fd6186e7e710316e079d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_7f4151f8e8366f3f60c732a90a2bc4306dc9e57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/dagger-2.2_f1d20e62413aca7016bcc6688d2fd8bde63f1513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.android/build-cache/7940b0cb55f083a82ee56386b5f971cd1c9f8f28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/classes_1e9c12dfd19d2fd9e12a58efb72310765717271a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.android/build-cache/21e685a546265e48d3d9a31714c1fb5e385bdc6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/classes_798f874b7717ba74c74a02c2758399aabe7d6aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha8_5b2a7b054d7403d4714d7f8d42940c6ae49fdb06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/gson-2.6.2_d3f8fdb98082cf5485cf452bc65df5962566b845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.2/df90a91dbb9a7d942361a5613b1666e38dca4844/rxjava-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/rxjava-1.1.2_24059032d1b0e9ca4f01a789cf09bc44786d175a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_1a8e6d8b01b9be45f3dee3b330f0c7cdd6c25a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.7.0/1dc44f4cec20a64cebb68b90b4218f82ac7948b1/okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/okio-1.7.0_0695ba011fa89fef8f44035ff589effc67b3f9cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iagomendesfucolo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/iagomendesfucolo/Desktop/INCLUDE/MimAcher/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_243e9a6e4dfae6ff14004e38b1782e2eb551059d.jar" />
+    </item>
+
+</items>
