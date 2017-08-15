@@ -1,6 +1,7 @@
 # Android-MVP
-This source code implement MVP (MODEL VIEW PRESENTER)
-I followed this example
-https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/
+This source code implement MVP (MODEL VIEW PRESENTER) in kotlin
+# RxJava
+# Dagger 2
+# RetroFit
 
-I will add new things in this project.
+
